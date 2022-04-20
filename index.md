@@ -29,7 +29,7 @@
 
 <image src="NEURO2017.png" width="55%"></image>
 
-### 会议
+## 会议
 
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 6th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'18)**, Innsbruck, Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842) - code: [GitHub](https://github.com/yaqiliu-cs/forgerylocCNN-py)
 
@@ -39,6 +39,6 @@
 
 <image src="ICIP2015.png" width="55%"></image>
 
-### 项目
+## 项目
 
 - 基于关键深度特征匹配的有约束图像拼接检测与定位研究，**国家自然科学基金青年基金**，2022.01~2024.12，主持。
