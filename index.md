@@ -15,7 +15,7 @@
 
 - **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697)
 
-\u0020 <image src="TIP2022.png" width="75%"></image>
+      <image src="TIP2022.png" width="75%"></image>
 
 - **Liu Yaqi**, Zhu Xiaobin, Zhao Xianfeng, Cao Yun. *Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution*. **IEEE Transactions on Information Forensics and Security (TIFS)**, 2019, 14(10): 2551-2566. **(CCF-A，中科院1区，SCI，IF=7.178，信息安全顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/8658131) - code: [GitHub](https://github.com/yaqiliu-cs/CISDL-DMAC)
 
