@@ -32,6 +32,8 @@
 ## 会议
 
 - **Liu Yaqi**, Xia Chao, Cai Qiang, Jin Xin. *Pyramid Copy-move Forgery Detection Using Adversarial Optimized Self Deep Matching Network*. **IEEE TrustCom 2022**, Wuhan, China, 2022. **(CCF-C)**
+  
+  <image src="trustcom.png" width="55%"></image>
 
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng, Cao Yun. *Image Forgery Localization based on Multi-Scale Convolutional Neural Networks*. **Proceedings of the 6th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'18)**, Innsbruck, Austria, 2018, 85-90. **(CCF-C)** - paper：[ACM](https://dl.acm.org/doi/abs/10.1145/3206004.3206010)/[arXiv](https://arxiv.org/abs/1706.07842) - code: [GitHub](https://github.com/yaqiliu-cs/forgerylocCNN-py)
 
