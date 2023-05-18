@@ -1,7 +1,7 @@
 # 刘亚奇
 <image src="liuyaqi.png" width="25%"></image><image src="liuyaqiwechat.png" width="25%"></image>
 
-2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，任助理研究员。
+2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，任助理研究员，硕士研究生导师。
 
 主要研究方向为信息内容安全、多媒体取证、图像处理、人工智能、模式识别。第一作者发表CCF-A类期刊2篇（信息安全顶刊TIFS、图像处理顶刊TIP），发表SCI期刊和国际会议论文多篇。主持国家自然科学基金青年基金一项。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
 
@@ -20,6 +20,8 @@
 - **Liu Yaqi**, Zhu Xiaobin, Zhao Xianfeng, Cao Yun. *Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution*. **IEEE Transactions on Information Forensics and Security (TIFS)**, 2019, 14(10): 2551-2566. **(CCF-A，中科院1区，SCI，IF=7.178，信息安全顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/8658131) - code: [GitHub](https://github.com/yaqiliu-cs/CISDL-DMAC)
 
   <image src="TIFS2019.png" width="75%"></image>
+  
+- **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI，IF=3.201)** - paper：[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
 
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng. *Copy-move forgery detection based on convolutional kernel network*. **Multimedia Tools and Applications (MTA)**, 2018, 77: 18269–18293. **(CCF-C，中科院3区，SCI，IF=2.757)** - paper：[Springer](https://link.springer.com/article/10.1007/s11042-017-5374-6)
 
