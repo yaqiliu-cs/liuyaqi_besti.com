@@ -12,8 +12,6 @@
 
 ## 期刊
 
-- **Liu Yaqi**, Chen Shuhuan, Shi Haichao, Zhang Xiaoyu, Xiao Song and Cai Qiang. *MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder*. **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)**, 2025. **(CCF-A)**
-
 - **Liu Yaqi**, Xia Chao, Zhu Xiaobin, Xu Shengwei. *Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue*. **IEEE Transactions on Image Processing (TIP)**, 2022, 31: 541-555. **(CCF-A，中科院1区，SCI，IF=10.856，图像处理顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/9646481)/[arXiv](https://arxiv.org/abs/2012.08697) - code: [GitHub](https://github.com/yaqiliu-cs/SelfDM-TIP)
 
   <image src="TIP2022.png" width="75%"></image>
@@ -33,6 +31,9 @@
   <image src="NEURO2017.png" width="55%"></image>
 
 ## 会议
+
+
+- **Liu Yaqi**, Chen Shuhuan, Shi Haichao, Zhang Xiaoyu, Xiao Song and Cai Qiang. *MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder*. **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)**, 2025. **(CCF-A)**
 
 - **Liu Yaqi**, Xia Chao, Cai Qiang, Jin Xin. *Pyramid Copy-move Forgery Detection Using Adversarial Optimized Self Deep Matching Network*. **IEEE TrustCom 2022**, Wuhan, China, 2022. **(CCF-C)**
   
