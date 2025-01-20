@@ -1,5 +1,5 @@
 # 刘亚奇
-<image src="liuyaqi.png" width="25%"></image><image src="liuyaqiwechat.png" width="25%"></image>
+<image src="liuyaqi.png" width="25%"></image>
 
 2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，任助理研究员，硕士研究生导师。
 
@@ -21,6 +21,7 @@
   <image src="TIFS2019.png" width="75%"></image>
   
 - **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI，IF=3.201)** - paper：[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
+  <image src="TBFormer.png" width="75%"></image>
 
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng. *Copy-move forgery detection based on convolutional kernel network*. **Multimedia Tools and Applications (MTA)**, 2018, 77: 18269–18293. **(CCF-C，中科院3区，SCI，IF=2.757)** - paper：[Springer](https://link.springer.com/article/10.1007/s11042-017-5374-6)
 
@@ -33,7 +34,9 @@
 ## 会议
 
 
-- **Liu Yaqi**, Chen Shuhuan, Shi Haichao, Zhang Xiaoyu, Xiao Song and Cai Qiang. *MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder*. **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)**, 2025. **(CCF-A)**
+- **Liu Yaqi**, Chen Shuhuan, Shi Haichao, Zhang Xiaoyu, Xiao Song and Cai Qiang. *MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder*. **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)**, 2025. **(CCF-A, 人工智能顶级会议)** - code: [GitHub](https://github.com/MrHuan3/MUN)
+  
+  <image src="MUN.png" width="75%"></image>
 
 - **Liu Yaqi**, Xia Chao, Cai Qiang, Jin Xin. *Pyramid Copy-move Forgery Detection Using Adversarial Optimized Self Deep Matching Network*. **IEEE TrustCom 2022**, Wuhan, China, 2022. **(CCF-C)**
   
