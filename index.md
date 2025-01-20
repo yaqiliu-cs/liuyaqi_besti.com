@@ -49,7 +49,3 @@
 - **Liu Yaqi**, Cai Qiang, Zhu Xiaobin, Cao Jian, Li Haisheng. *Saliency detection using two-stage scoring*. **Proceedings of 2015 IEEE International Conference on Image Processing (ICIP'15)**, Quebec City, QC, Canada, 2015, 4062-4066. **(CCF-C)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/7351569)
 
   <image src="ICIP2015.png" width="55%"></image>
-
-## 项目
-
-- 基于关键深度特征匹配的有约束图像拼接检测与定位研究，**国家自然科学基金青年基金**，2022.01~2024.12，主持。
