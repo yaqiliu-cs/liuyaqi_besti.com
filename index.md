@@ -20,7 +20,8 @@
 
   <image src="TIFS2019.png" width="75%"></image>
   
-- **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
+- **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer
+
   <image src="TBFormer.png" width="75%"></image>
 
 - **Liu Yaqi**, Guan Qingxiao, Zhao Xianfeng. *Copy-move forgery detection based on convolutional kernel network*. **Multimedia Tools and Applications (MTA)**, 2018, 77: 18269–18293. **(CCF-C，中科院3区，SCI)** - paper：[Springer](https://link.springer.com/article/10.1007/s11042-017-5374-6)
