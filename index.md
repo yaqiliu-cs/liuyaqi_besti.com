@@ -1,5 +1,5 @@
 # 刘亚奇
-<image src="liuyaqi.jpg" width="18%"></image>
+<image src="liuyaqi.jpg" width="20%"></image>
 
 2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，硕士研究生导师。
 
@@ -20,7 +20,7 @@
 
   <image src="TIFS2019.png" width="75%"></image>
   
-- **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer
+- **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
 
   <image src="TBFormer.png" width="75%"></image>
 
