@@ -1,9 +1,9 @@
 # 刘亚奇
-<image src="liuyaqi.jpg" width="20%"></image>
+<image src="liuyaqi.jpg" width="25%"></image>
 
 2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，硕士研究生导师。
 
-主要研究方向为信息内容安全、多媒体取证、图像处理、人工智能、模式识别。第一作者发表CCF-A类论文3篇（信息安全顶刊TIFS、图像处理顶刊TIP、人工智能顶会AAAI），发表SCI期刊和国际会议论文多篇。主持国家自然科学基金青年基金1项，主持省部级课题4项。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
+主要研究方向为多媒体取证、密码工程、信息内容安全、图像处理、人工智能、模式识别。第一作者发表CCF-A类论文3篇（信息安全顶刊TIFS、图像处理顶刊TIP、人工智能顶会AAAI），发表SCI期刊和国际会议论文多篇。主持国家自然科学基金青年基金1项，主持省部级课题4项。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
 
 邮箱：liuyaqi@besti.edu.cn
 
@@ -20,7 +20,7 @@
 
   <image src="TIFS2019.png" width="75%"></image>
   
-- **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
+- **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[IEEE](https://ieeexplore.ieee.org/document/10131980)/[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
 
   <image src="TBFormer.png" width="75%"></image>
 
