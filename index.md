@@ -19,6 +19,10 @@
 - **Liu Yaqi**, Zhu Xiaobin, Zhao Xianfeng, Cao Yun. *Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution*. **IEEE Transactions on Information Forensics and Security (TIFS)**, 2019, 14(10): 2551-2566. **(CCF-A，中科院1区，SCI，信息安全顶级期刊)** - paper：[IEEE](https://ieeexplore.ieee.org/abstract/document/8658131) - code: [GitHub](https://github.com/yaqiliu-cs/CISDL-DMAC)
 
   <image src="TIFS2019.png" width="75%"></image>
+
+- **Liu Yaqi**, Wang Hanhan, Zhang Jianyi, Xiao Song, Cai Qiang. *RHN: RoI Restricted Hybrid Network for Instance-aware Image-to-Image Translation*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)**
+
+<image src="RHN.png" width="75%"></image>
   
 - **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[IEEE](https://ieeexplore.ieee.org/document/10131980)/[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
 
@@ -38,6 +42,10 @@
 - **Liu Yaqi**, Chen Shuhuan, Shi Haichao, Zhang Xiaoyu, Xiao Song and Cai Qiang. *MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder*. **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)**, 2025. **(CCF-A, 人工智能顶级会议)** - code: [GitHub](https://github.com/MrHuan3/MUN)
   
   <image src="MUN.png" width="75%"></image>
+
+- Huang Heng, **Liu Yaqi**, Jin Xin, Xiao Song, Liu Bin. *KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization*. **The 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2025. **(CCF-B)**
+  
+  <image src="KLMN.png" width="75%"></image>
 
 - **Liu Yaqi**, Xia Chao, Cai Qiang, Jin Xin. *Pyramid Copy-move Forgery Detection Using Adversarial Optimized Self Deep Matching Network*. **IEEE TrustCom 2022**, Wuhan, China, 2022. **(CCF-C)**
   
