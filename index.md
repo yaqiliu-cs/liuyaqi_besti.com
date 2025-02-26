@@ -22,7 +22,7 @@
 
 - **Liu Yaqi**, Wang Hanhan, Zhang Jianyi, Xiao Song, Cai Qiang. *RHN: RoI Restricted Hybrid Network for Instance-aware Image-to-Image Translation*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)**
 
-<image src="RHN.png" width="75%"></image>
+  <image src="RHN.png" width="75%"></image>
   
 - **Liu Yaqi**, Lv Binbin, Jin Xin, Chen Xiaoyu, Zhang Xiaokun. *TBFormer: Two-Branch Transformer for Image Forgery Localization*. **IEEE Signal Processing Letters (SPL)**, 2023. **(CCF-C，中科院2区，SCI)** - paper：[IEEE](https://ieeexplore.ieee.org/document/10131980)/[arXiv](https://arxiv.org/abs/2302.13004) - code: [GitHub](https://github.com/free1dom1/TBFormer)
 
