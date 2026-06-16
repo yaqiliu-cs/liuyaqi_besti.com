@@ -22,7 +22,7 @@
 
 - **Liu Yaqi**, Zhang Yifan, Xiao Song, Yue Wenqian, Xu Shengwei. *CrossNeXt: Interactive siamese ConvNeXt with contrastive learning and edge-aware recalibration for constrained image splicing detection and localization*. **Expert Systems With Applications (ESWA)**, 2026, 331. **(中科院1区，SCI，人工智能顶级期刊)** - paper：[Elsevier](https://www.sciencedirect.com/science/article/pii/S0957417426021068)
 
-- **Liu Yaqi**, Sun Yiyuan, Wang Hanhan, Xiao Song. *TSFE-Net: Document Image Forgery Localization via Text Structural Feature Enhancement*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)** - paper [IEEE](https://ieeexplore.ieee.org/document/11503400)
+- **Liu Yaqi**, Sun Yiyuan, Wang Hanhan, Xiao Song. *TSFE-Net: Document Image Forgery Localization via Text Structural Feature Enhancement*. **IEEE Signal Processing Letters (SPL)**, 2026. **(CCF-C，中科院2区，SCI)** - paper [IEEE](https://ieeexplore.ieee.org/document/11503400)
 
 - **Liu Yaqi**, Wang Hanhan, Zhang Jianyi, Xiao Song, Cai Qiang. *RHN: RoI Restricted Hybrid Network for Instance-aware Image-to-Image Translation*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)** - paper [IEEE](https://ieeexplore.ieee.org/document/10909512)
 
@@ -47,11 +47,19 @@
   
   <image src="MUN.png" width="75%"></image>
 
-- **Liu Yaqi**, Bai Xuesong, Du Chenfeng, Jin Xin. *KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11465126)
+- **Liu Yaqi**, Bai Xuesong, Du Chenfeng, Jin Xin. *Transwnet: Dual-Stream Hierarchical Feature Integrated Network for Image Forgery Localization*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11465126)
 
-- Huang Heng, **Liu Yaqi**, Jin Xin, Xiao Song, Liu Bin. *KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization*. **The 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2025. **(CCF-B)**
+-  Li Weize, **Liu Yaqi**, Xiao Song. *PKW: Public Key Watermarking for Deep Neural Network with Fisher-Guided Embedding*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11463999)
+ 
+-  Xue Defan, **Liu Yaqi**, Xiao Song. *Marking the Margin: Robust DNN Watermarking Against Removal Attacks via Sculpting Decision Boundaries*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11462280)
+
+-  You Ziyu, **Liu Yaqi**, Xiao Song. *TLD-PGD: Two-Stage Low Frequency Degradation Adversarial Attack in Hyperspectral Image Classification*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11460524)
+
+- Huang Heng, **Liu Yaqi**, Jin Xin, Xiao Song, Liu Bin. *KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization*. **The 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2025. **(CCF-B)** - paper [IEEE](https://ieeexplore.ieee.org/document/10888764)
   
   <image src="KLMN.png" width="75%"></image>
+
+- **Liu Yaqi**, Wang Hanhan, Zhu Weichen, Xia Chao. *TriDNet: 3D Reconstruction and Generalized Feature Disentanglement for Deepfake Detection*. **IEEE TrustCom 2025**, 2025. **(CCF-C)** - paper [IEEE](https://ieeexplore.ieee.org/document/11354707)
 
 - **Liu Yaqi**, Xia Chao, Cai Qiang, Jin Xin. *Pyramid Copy-move Forgery Detection Using Adversarial Optimized Self Deep Matching Network*. **IEEE TrustCom 2022**, Wuhan, China, 2022. **(CCF-C)**
   
