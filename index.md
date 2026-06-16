@@ -3,7 +3,7 @@
 
 2020年9月毕业于中国科学院信息工程研究所信息安全国家重点实验室，网络空间安全专业博士研究生。2020年10月入职北京电子科技学院，硕士研究生导师。
 
-主要研究方向为多媒体取证、密码工程、信息内容安全、图像处理、人工智能、模式识别。第一作者发表CCF-A类论文3篇（信息安全顶刊TIFS、图像处理顶刊TIP、人工智能顶会AAAI），发表SCI期刊和国际会议论文多篇。主持国家自然科学基金青年基金1项，主持省部级课题4项。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
+主要研究方向为多媒体取证、密码工程、信息内容安全、图像处理、人工智能、模式识别。发表高水平论文40余篇（信息安全顶刊TIFS、图像处理顶刊TIP、人工智能顶会AAAI等）。主持国家自然科学基金青年基金1项，主持省部级课题5项。CSIG数字媒体取证与安全专委会、CSIG视觉大数据专委会委员。
 
 邮箱：liuyaqi@besti.edu.cn
 
@@ -20,7 +20,11 @@
 
   <image src="TIFS2019.png" width="75%"></image>
 
-- **Liu Yaqi**, Wang Hanhan, Zhang Jianyi, Xiao Song, Cai Qiang. *RHN: RoI Restricted Hybrid Network for Instance-aware Image-to-Image Translation*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)**
+- **Liu Yaqi**, Zhang Yifan, Xiao Song, Yue Wenqian, Xu Shengwei. *CrossNeXt: Interactive siamese ConvNeXt with contrastive learning and edge-aware recalibration for constrained image splicing detection and localization*. **Expert Systems With Applications (ESWA)**, 2026, 331. **(中科院1区，SCI，人工智能顶级期刊)** - paper：[Elsevier](https://www.sciencedirect.com/science/article/pii/S0957417426021068)
+
+- **Liu Yaqi**, Sun Yiyuan, Wang Hanhan, Xiao Song. *TSFE-Net: Document Image Forgery Localization via Text Structural Feature Enhancement*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)** - paper [IEEE](https://ieeexplore.ieee.org/document/11503400)
+
+- **Liu Yaqi**, Wang Hanhan, Zhang Jianyi, Xiao Song, Cai Qiang. *RHN: RoI Restricted Hybrid Network for Instance-aware Image-to-Image Translation*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)** - paper [IEEE](https://ieeexplore.ieee.org/document/10909512)
 
   <image src="RHN.png" width="75%"></image>
   
@@ -42,6 +46,8 @@
 - **Liu Yaqi**, Chen Shuhuan, Shi Haichao, Zhang Xiaoyu, Xiao Song and Cai Qiang. *MUN: Image Forgery Localization Based on M3 Encoder and UN Decoder*. **The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)**, 2025. **(CCF-A, 人工智能顶级会议)** - code: [GitHub](https://github.com/MrHuan3/MUN)
   
   <image src="MUN.png" width="75%"></image>
+
+- **Liu Yaqi**, Bai Xuesong, Du Chenfeng, Jin Xin. *KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11465126)
 
 - Huang Heng, **Liu Yaqi**, Jin Xin, Xiao Song, Liu Bin. *KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization*. **The 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2025. **(CCF-B)**
   
