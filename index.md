@@ -22,11 +22,11 @@
 
 - **Liu Yaqi**, Zhang Yifan, Xiao Song, Yue Wenqian, Xu Shengwei. *CrossNeXt: Interactive siamese ConvNeXt with contrastive learning and edge-aware recalibration for constrained image splicing detection and localization*. **Expert Systems With Applications (ESWA)**, 2026, 331. **(中科院1区，SCI，人工智能顶级期刊)** - paper：[Elsevier](https://www.sciencedirect.com/science/article/pii/S0957417426021068)
 
-<image src="CrossNeXt.png" width="75%"></image>
+  <image src="CrossNeXt.png" width="75%"></image>
 
 - **Liu Yaqi**, Sun Yiyuan, Wang Hanhan, Xiao Song. *TSFE-Net: Document Image Forgery Localization via Text Structural Feature Enhancement*. **IEEE Signal Processing Letters (SPL)**, 2026. **(CCF-C，中科院2区，SCI)** - paper [IEEE](https://ieeexplore.ieee.org/document/11503400)
 
-<image src="TSFE-Net.png" width="75%"></image>
+  <image src="TSFE-Net.png" width="75%"></image>
 
 - **Liu Yaqi**, Wang Hanhan, Zhang Jianyi, Xiao Song, Cai Qiang. *RHN: RoI Restricted Hybrid Network for Instance-aware Image-to-Image Translation*. **IEEE Signal Processing Letters (SPL)**, 2025. **(CCF-C，中科院2区，SCI)** - paper [IEEE](https://ieeexplore.ieee.org/document/10909512)
 
@@ -53,7 +53,7 @@
 
 - **Liu Yaqi**, Bai Xuesong, Du Chenfeng, Jin Xin. *Transwnet: Dual-Stream Hierarchical Feature Integrated Network for Image Forgery Localization*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11465126)
 
-<image src="TransWNet.png" width="75%"></image>
+  <image src="TransWNet.png" width="75%"></image>
 
 -  Li Weize, **Liu Yaqi**, Xiao Song. *PKW: Public Key Watermarking for Deep Neural Network with Fisher-Guided Embedding*. **The 51th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, 2026. **(CCF-B)** -paper [IEEE](https://ieeexplore.ieee.org/document/11463999)
  
@@ -67,7 +67,7 @@
 
 - **Liu Yaqi**, Wang Hanhan, Zhu Weichen, Xia Chao. *TriDNet: 3D Reconstruction and Generalized Feature Disentanglement for Deepfake Detection*. **IEEE TrustCom 2025**, 2025. **(CCF-C)** - paper [IEEE](https://ieeexplore.ieee.org/document/11354707)
 
-<image src="TriDNet.png" width="75%"></image>
+  <image src="TriDNet.png" width="75%"></image>
 
 - **Liu Yaqi**, Xia Chao, Cai Qiang, Jin Xin. *Pyramid Copy-move Forgery Detection Using Adversarial Optimized Self Deep Matching Network*. **IEEE TrustCom 2022**, Wuhan, China, 2022. **(CCF-C)**
   
