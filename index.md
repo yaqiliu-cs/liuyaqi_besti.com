@@ -65,6 +65,10 @@
   
   <image src="KLMN.png" width="75%"></image>
 
+- **Liu Yaqi**, Wang Hanhan, Yue Wenqian, Xia Chao. *CMFDFormer: Transformer-based Copy-Move Forgery Detection with Knowledge Distillation*. **Advances in Computer Graphics - 43st Computer Graphics International Conference, {CGI} 2026**, 2026. **(CCF-C)**
+
+  <image src="CGI26.png" width="75%"></image>
+
 - **Liu Yaqi**, Wang Hanhan, Zhu Weichen, Xia Chao. *TriDNet: 3D Reconstruction and Generalized Feature Disentanglement for Deepfake Detection*. **IEEE TrustCom 2025**, 2025. **(CCF-C)** - paper [IEEE](https://ieeexplore.ieee.org/document/11354707)
 
   <image src="TriDNet.png" width="75%"></image>
